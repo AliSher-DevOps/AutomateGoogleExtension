@@ -1,0 +1,2 @@
+# AutomateGoogleExtension
+AutomateGoogleExtension using selenium and pyautogui
